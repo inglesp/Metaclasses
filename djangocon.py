@@ -14,7 +14,7 @@
 #
 # 16th May 2013
 #
-# @@ link to github
+# https://github.com/inglesp/Metaclasses
 #
 ###
 
