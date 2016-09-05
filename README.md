@@ -1,7 +1,7 @@
 Advanced Python through Django: Metaclasses
 ===========================================
 
-This is the code for my talk at [Djangocon Europe](http://djangocircus.com/talks/#20).
+This is the code for my talk at [Djangocon Europe](https://www.youtube.com/watch?v=nvLdlWfG9QE).
 
 This code is designed to be run with a tool called [prescons](https://github.com/inglesp/prescons).
 
